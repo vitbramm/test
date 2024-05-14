@@ -1,5 +1,3 @@
-pip install llama-parse
-
 import os
 import streamlit as st
 from llama_parse import LlamaParse  # Убедитесь, что вы установили пакет с помощью pip install llama-parse
