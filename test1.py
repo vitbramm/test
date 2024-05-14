@@ -5,11 +5,11 @@ import streamlit as st
 from llama_parse import LlamaParse  # Убедитесь, что вы установили пакет с помощью pip install llama-parse
 
 # Установите ваш API ключ
-API_KEY = "your_api_key_here"
+API_KEY = "llx-Qx3GKnjxmVc7hz29umtTuoXgq5TycKppFcfIZJb05c0GY6tk"
 
 # Инициализация парсера
 parser = LlamaParse(
-    api_key=llx-Qx3GKnjxmVc7hz29umtTuoXgq5TycKppFcfIZJb05c0GY6tk,
+    api_key=API_KEY,
     result_type="text"  # Вы можете использовать "markdown" или "text" в зависимости от ваших потребностей
 )
 
